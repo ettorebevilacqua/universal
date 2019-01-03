@@ -120,7 +120,7 @@
     "ng-bullet": "~1.0.3",
     "nightmare": "~3.0.1",
     "prettier": "~1.15.3",
-    "prettier-tslint": "~0.4.1",
+    "prettier-tslint": "~0.4.2",
     "rimraf": "~2.6.2",
     "standard-version": "~4.4.0",
     "stylelint": "~9.9.0",
