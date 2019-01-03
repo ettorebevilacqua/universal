@@ -8137,10 +8137,10 @@ preserve@^0.2.0:
   resolved "https://registry.yarnpkg.com/preserve/-/preserve-0.2.0.tgz#815ed1f6ebc65926f865b310c0713bcb3315ce4b"
   integrity sha1-gV7R9uvGWSb4ZbMQwHE7yzMVzks=
 
-prettier-tslint@~0.4.1:
-  version "0.4.1"
-  resolved "https://registry.yarnpkg.com/prettier-tslint/-/prettier-tslint-0.4.1.tgz#75011da65b555cda9909e7285a63b2b4f96772e6"
-  integrity sha512-bd95F9mvhlG8G0VMZF1OYkektsO7AcNGz33ndiHaKpfeuNvaaGTppr34ANfO5jduRQPKC27L4OAr7ljAYopZJw==
+prettier-tslint@~0.4.2:
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/prettier-tslint/-/prettier-tslint-0.4.2.tgz#37dd009ad6a482ea8101f40cf70b777bc86f3438"
+  integrity sha512-urhX7U/F+fu8sztEs/Z7CxNS8PdEytEwGKhQaH5fxxCdRmHGT45FoClyDlcZrMk9cK/8JpX/asFmTOHtSGJfLg==
   dependencies:
     chalk "^2.4.0"
     globby "^8.0.1"
