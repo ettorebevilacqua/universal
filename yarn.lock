@@ -95,6 +95,17 @@
     "@angular-devkit/core" "7.2.0-rc.0"
     rxjs "6.3.3"
 
+"@angular-devkit/core@7.2.0":
+  version "7.2.0"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/core/-/core-7.2.0.tgz#c138be754f17908b773dba7c20fe6f40a080d10b"
+  integrity sha512-0T9SJQ2f8qxGClonulQd4pMFfOrEv/it+doPgnalsM8UhQ3RRSrziFGEB97kpLTjH8fIPEgC/80YbtwOarfojg==
+  dependencies:
+    ajv "6.6.2"
+    chokidar "2.0.4"
+    fast-json-stable-stringify "2.0.0"
+    rxjs "6.3.3"
+    source-map "0.7.3"
+
 "@angular-devkit/core@7.2.0-rc.0", "@angular-devkit/core@~7.2.0-rc.0":
   version "7.2.0-rc.0"
   resolved "https://registry.yarnpkg.com/@angular-devkit/core/-/core-7.2.0-rc.0.tgz#6cd53211825c475cdc73b01b4b05d7a308bc4a84"
@@ -106,12 +117,20 @@
     rxjs "6.3.3"
     source-map "0.7.3"
 
-"@angular-devkit/schematics@7.2.0-rc.0", "@angular-devkit/schematics@~7.2.0-rc.0":
+"@angular-devkit/schematics@7.2.0-rc.0":
   version "7.2.0-rc.0"
   resolved "https://registry.yarnpkg.com/@angular-devkit/schematics/-/schematics-7.2.0-rc.0.tgz#e902b86705067dc92880cfb0a97ed7863c0c484f"
   integrity sha512-p6YDFZxLuDorqwYDOeenfJf5QdXD7NL+NHx39FxjeJMM/AT0AcmHmLc2ARm+Z/HRuqlZIG2pvvPeaEAptkTV0Q==
   dependencies:
     "@angular-devkit/core" "7.2.0-rc.0"
+    rxjs "6.3.3"
+
+"@angular-devkit/schematics@~7.2.0":
+  version "7.2.0"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/schematics/-/schematics-7.2.0.tgz#6d51209047bd6a74bcea99fcd0b48fedbbd074d3"
+  integrity sha512-xhQTZWayhY32AexLeAhFeyccjSzagWvPkDaOlPbr1clSdGPR+qjdmfOKhQOxiH/0KG812XDoolwc7fToM2j/ow==
+  dependencies:
+    "@angular-devkit/core" "7.2.0"
     rxjs "6.3.3"
 
 "@angular/animations@~7.2.0-rc.0":
