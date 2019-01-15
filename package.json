@@ -80,7 +80,7 @@
     "hammerjs": "~2.0.8",
     "lodash": "~4.17.11",
     "ngx-perfect-scrollbar": "~7.1.0",
-    "reflect-metadata": "~0.1.12",
+    "reflect-metadata": "~0.1.13",
     "request": "~2.88.0",
     "rxjs": "~6.3.3",
     "unionize": "~2.1.2",
