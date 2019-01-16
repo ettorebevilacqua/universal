@@ -1148,10 +1148,10 @@ angular-tslint-rules@~1.12.1:
   resolved "https://registry.yarnpkg.com/angular-tslint-rules/-/angular-tslint-rules-1.12.1.tgz#a21eb1848525fc8c5b4e4fe110f0b198504b2f23"
   integrity sha512-bcNwWoRd0/ePyfT02Id2E9nsU9Z/ONhlGYLCLmRgF1Pl5aQDYfnbioeDgvl8faRXAL1Xk+9a1PsgQ+22r5TrMw==
 
-angulartics2@~7.2.4:
-  version "7.2.4"
-  resolved "https://registry.yarnpkg.com/angulartics2/-/angulartics2-7.2.4.tgz#d0477b6ce4f3dc11bc02abc3a41100a29b24da9a"
-  integrity sha512-NfssYv0Amng1BnRk5L8ohyT5fJSb252WadjGh2Pj/dlHnoB+yxlYXmXajAB/WCUqUPfB34ZW54m/l4kWHal24Q==
+angulartics2@~7.4.1:
+  version "7.4.1"
+  resolved "https://registry.yarnpkg.com/angulartics2/-/angulartics2-7.4.1.tgz#94455160b4e0440acf6004f2be4c21389a3a54e0"
+  integrity sha512-b+H7KrC6flwRKbQhP6Fa1M85MYNfRamUlaNnpDnCgXXJHB45J8iFHQ9P1MPd7zfIDq3XMMOw94D0kUcP42Zs+A==
   dependencies:
     tslib "^1.9.0"
 
