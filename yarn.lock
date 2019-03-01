@@ -106,12 +106,31 @@
     rxjs "6.3.3"
     source-map "0.7.3"
 
-"@angular-devkit/schematics@7.2.0-rc.0", "@angular-devkit/schematics@~7.2.0-rc.0":
+"@angular-devkit/core@7.3.4":
+  version "7.3.4"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/core/-/core-7.3.4.tgz#fae0521652c7430237025f117531ca3262ef8335"
+  integrity sha512-MBfen51iOBKfK4tlg5KwmPxePsF1QoFNUMGLuvUUwPkteonrGcupX1Q7NWTpf+HA+i08mOnZGuepeuQkD12IQw==
+  dependencies:
+    ajv "6.9.1"
+    chokidar "2.0.4"
+    fast-json-stable-stringify "2.0.0"
+    rxjs "6.3.3"
+    source-map "0.7.3"
+
+"@angular-devkit/schematics@7.2.0-rc.0":
   version "7.2.0-rc.0"
   resolved "https://registry.yarnpkg.com/@angular-devkit/schematics/-/schematics-7.2.0-rc.0.tgz#e902b86705067dc92880cfb0a97ed7863c0c484f"
   integrity sha512-p6YDFZxLuDorqwYDOeenfJf5QdXD7NL+NHx39FxjeJMM/AT0AcmHmLc2ARm+Z/HRuqlZIG2pvvPeaEAptkTV0Q==
   dependencies:
     "@angular-devkit/core" "7.2.0-rc.0"
+    rxjs "6.3.3"
+
+"@angular-devkit/schematics@~7.3.4":
+  version "7.3.4"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/schematics/-/schematics-7.3.4.tgz#918c9349835f3a4c9a7128ebcda0738b623fc89e"
+  integrity sha512-BLI4MDHmpzw+snu/2Dw1nMmfJ0VAARTbU6DrmzXyl2Se45+iE/tdRy4yNx3IfHhyoCrVZ15R0y9CXeEsLftlIg==
+  dependencies:
+    "@angular-devkit/core" "7.3.4"
     rxjs "6.3.3"
 
 "@angular/animations@~7.2.0-rc.0":
@@ -1113,6 +1132,16 @@ ajv@6.6.2, ajv@^6.1.0, ajv@^6.5.5, ajv@^6.6.1:
   version "6.6.2"
   resolved "https://registry.yarnpkg.com/ajv/-/ajv-6.6.2.tgz#caceccf474bf3fc3ce3b147443711a24063cc30d"
   integrity sha512-FBHEW6Jf5TB9MGBgUUA9XHkTbjXYfAUjY43ACMfmdMRHniyoMHjHjzD50OK8LGDWQwp4rWEsIq5kEqq7rvIM1g==
+  dependencies:
+    fast-deep-equal "^2.0.1"
+    fast-json-stable-stringify "^2.0.0"
+    json-schema-traverse "^0.4.1"
+    uri-js "^4.2.2"
+
+ajv@6.9.1:
+  version "6.9.1"
+  resolved "https://registry.yarnpkg.com/ajv/-/ajv-6.9.1.tgz#a4d3683d74abc5670e75f0b16520f70a20ea8dc1"
+  integrity sha512-XDN92U311aINL77ieWHmqCcNlwjoP5cHXDxIxbf2MaPYuCXOHS7gHH8jktxeK5omgd52XbSTX6a4Piwd1pQmzA==
   dependencies:
     fast-deep-equal "^2.0.1"
     fast-json-stable-stringify "^2.0.0"
